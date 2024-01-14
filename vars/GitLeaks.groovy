@@ -1,4 +1,4 @@
-def codeCoverage() {
+def gitLeaks() {
         sh 'gitleaks detect -v'   
 }
 
