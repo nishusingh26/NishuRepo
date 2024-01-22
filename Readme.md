@@ -47,3 +47,18 @@
 
 <img width="1359" alt="Screenshot 2024-01-22 at 9 49 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c6dc7a2b-478b-41e9-b15f-fe3c6dd3e26e">
 
+<h3>8. The Main Thing we will do now for recreate deployment. </h3>
+<h4> As the problem statement suggest that the server-1 will face downtime till the time server-2 comes in action. </h4>
+<h4> So we will make the min=0 , desired=0 and max=0 which will denotes there should be no servers to service the request.
+Once its done you will see the servers are draining from the Target Group.
+</h4>
+<h4> At this point we will change the version of the Launch_Template to Nginx-2 and again set the min=1 , desired= 2 and max=2 . </h4>
+<img width="1267" alt="Screenshot 2024-01-22 at 9 20 18 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/5659f1c7-3210-41fe-9c8f-e6ca5839cfbf">
+
+<img width="1050" alt="Screenshot 2024-01-22 at 9 20 30 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/ae3a2ca5-0e1c-46b6-9d10-fd3590f733e0">
+
+<img width="1358" alt="Screenshot 2024-01-22 at 9 20 40 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/32e957a5-e3de-434c-8f22-87dfc50d6dc9">
+
+
+
+
