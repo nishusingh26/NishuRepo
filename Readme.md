@@ -1,4 +1,4 @@
-----------------------------------------------------------<h2>Recreate Deployment</h2> ----------------------------------------------------------------
+------------------------------------------------------------------<h2>Recreate Deployment</h2> ----------------------------------------------------------------
 <li>Version A is terminated then version B is rolled out</li>
 <h3>1. First create VPC and Subnet (Public and Private)</h3>
 
@@ -74,3 +74,5 @@ Once its done you will see the servers are draining from the Target Group.
 <img width="1361" alt="Screenshot 2024-01-22 at 11 12 54 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/ebedf7f8-8fc9-49fa-9ed7-11748ca35cb5">
 
 
+
+------------------------------------------------------------------<h2>Rollout Deployment</h2> ----------------------------------------------------------------
