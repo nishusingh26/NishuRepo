@@ -45,5 +45,5 @@
 
 <h4> From Nginx Private-server-2 </h4>
 
+<img width="1359" alt="Screenshot 2024-01-22 at 9 49 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c6dc7a2b-478b-41e9-b15f-fe3c6dd3e26e">
 
-![Uploading Screenshot 2024-01-22 at 9.49.35 PM.png…]()
