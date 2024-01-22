@@ -65,6 +65,6 @@ Once its done you will see the servers are draining from the Target Group.
 
 <img width="1093" alt="Screenshot 2024-01-22 at 9 46 53 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/0d58a2dd-3dac-4117-8f6b-6e4972e2529e">
 
-![Uploading Screenshot 2024-01-22 at 11.12.54 PM.png…]()
+<img width="1361" alt="Screenshot 2024-01-22 at 11 12 54 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/ebedf7f8-8fc9-49fa-9ed7-11748ca35cb5">
 
 
