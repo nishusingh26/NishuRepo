@@ -21,4 +21,5 @@
 
 <h3>5. We will create 3 servers , One Public (which will be in public subnet and act as a sabastion server ) , two servers (in Private subnet) and install nginx on both. </h3>
 
-<img width="1094" alt="Screenshot 2024-01-20 at 11 49 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/b56b6d5b-43cb-4545-879f-280d30558e4d">
+<img width="1329" alt="Screenshot 2024-01-22 at 10 12 00 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/8e5dae80-d770-4be3-a853-c6a66afeaa5c">
+
