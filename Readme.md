@@ -28,7 +28,7 @@
 <h3>5. Configure index.html file in both the servers and image URL address as mentioned below. </h3>
 <img width="1024" alt="Screenshot 2024-01-22 at 10 15 22 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/7e7f37d1-4d16-4159-b640-6198272ede15">
 
-![Uploading Screenshot 2024-01-22 at 10.16.18 PM.png…]()
+<img width="1022" alt="Screenshot 2024-01-22 at 10 16 18 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/65604e6d-f82c-435b-940c-cdd946238bcb">
 
 
 <h3>6. We will create Load Balancer in 2 AZ's in Public Subnet. Then create Target Group and add our 2 Nginx servers which are in Private Subnet. </h3>
