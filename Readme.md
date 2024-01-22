@@ -37,3 +37,13 @@
 
 
 <img width="1111" alt="Screenshot 2024-01-22 at 10 26 33 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/9c030f15-be98-4da7-9c97-ecb1a882b395">
+
+<h3>7. Copy the Load Balancer DNS and see it on browser if the pages are getting Displayed from both the servers. </h3>
+<h4> From Nginx Private-server-1. </h4>
+
+<img width="1440" alt="Screenshot 2024-01-22 at 9 37 56 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/5024d361-a241-4a9d-abe2-567895bb64cd">
+
+<h4> From Nginx Private-server-2 </h4>
+
+
+![Uploading Screenshot 2024-01-22 at 9.49.35 PM.png…]()
