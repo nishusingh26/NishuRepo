@@ -18,3 +18,7 @@
 
 <h3>4. You have to create Route table (Private) edit route, add the route from Nat Gateway and associate it with Private Subnet.</h3>
 <img width="1081" alt="Screenshot 2024-01-22 at 10 06 47 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c8373323-24ff-4619-ae8b-c697788d4c81">
+
+<h3>5. We will create 3 servers , One Public (which will be in public subnet and act as a sabastion server ) , two servers (in Private subnet) and install nginx on both. </h3>
+
+<img width="1094" alt="Screenshot 2024-01-20 at 11 49 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/b56b6d5b-43cb-4545-879f-280d30558e4d">
