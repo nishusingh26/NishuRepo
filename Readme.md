@@ -75,4 +75,17 @@ Once its done you will see the servers are draining from the Target Group.
 
 
 
-------------------------------------------------------------------<h2>Rollout Deployment</h2> ----------------------------------------------------------------
+------------------------------------------------------------------<h2>Rolling Deployment</h2> ----------------------------------------------------------------
+
+<li>version B is slowly rolled out and replacing version A.</li>
+<h4> At this point we will modify the Capacity to Min=1  Desired=1 , Max capacity=2 So that it will not face any downtime and we will change the Launch-temp-1.</h4>
+
+<img width="1062" alt="Screenshot 2024-01-23 at 12 07 29 AM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/f82dd756-2a24-48ff-977c-3c8e07cc18c9">
+
+<img width="1086" alt="Screenshot 2024-01-23 at 12 09 27 AM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/e546b5f5-a6a8-48f2-b0d0-bbc192ff8b7d">
+
+<h4> Once we change the Capacity automatically the extra server starts draining.Still we can see that servers are available to serve the content.</h4>
+<img width="1088" alt="Screenshot 2024-01-23 at 12 10 43 AM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/efe5b911-fb4b-4772-8c85-a503e7194538">
+
+
+
