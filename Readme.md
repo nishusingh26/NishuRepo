@@ -1,4 +1,4 @@
-<h2>Recreate Deployment</h2> 
+------------------------------------<h2>Recreate Deployment</h2> ----------------------------------------------------------------
 <li>Version A is terminated then version B is rolled out</li>
 <h3>1. First create VPC and Subnet (Public and Private)</h3>
 
