@@ -9,8 +9,12 @@
 
 
 <h3>2. Secoundly create Internet Gateway and NAT Gateway</h3>
+<img width="1086" alt="Screenshot 2024-01-22 at 10 04 45 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/d4ef586d-03fd-44fc-aebc-12be418e1ae7">
+
+<img width="1315" alt="Screenshot 2024-01-22 at 10 05 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c04e84a3-8512-47ff-981e-62fbbab376da">
 
 <h3>3. You have to create Route table (Public) edit route, add the route from Internet Gateway and associate it with Public Subnet.</h3>
 <img width="1357" alt="Screenshot 2024-01-22 at 9 09 21 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/b88a4703-6993-48b3-a7f6-a4408549373f">
 
 <h3>4. You have to create Route table (Private) edit route, add the route from Nat Gateway and associate it with Private Subnet.</h3>
+<img width="1081" alt="Screenshot 2024-01-22 at 10 06 47 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c8373323-24ff-4619-ae8b-c697788d4c81">
