@@ -33,5 +33,7 @@
 
 <h3>6. We will create Load Balancer in 2 AZ's in Public Subnet. Then create Target Group and add our 2 Nginx servers which are in Private Subnet. </h3>
 
+<img width="1111" alt="Screenshot 2024-01-22 at 10 24 23 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/dd39f8f9-0530-4931-b6f5-e0b1e814a8cb">
 
 
+<img width="1111" alt="Screenshot 2024-01-22 at 10 26 33 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/9c030f15-be98-4da7-9c97-ecb1a882b395">
