@@ -46,6 +46,12 @@
 <h4> From Nginx Private-server-2 </h4>
 
 <img width="1359" alt="Screenshot 2024-01-22 at 9 49 35 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/c6dc7a2b-478b-41e9-b15f-fe3c6dd3e26e">
+<h3> Create AMI of Both the servers and than create the Launch template shown below. </h3>
+
+<img width="1363" alt="Screenshot 2024-01-22 at 11 53 59 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/47405bd4-4e9e-4733-b80c-14751f88c473">
+
+<img width="1290" alt="Screenshot 2024-01-22 at 11 56 41 PM" src="https://github.com/nishusingh26/NishuRepo/assets/79636190/dea0af9d-da90-435d-a80f-8a379b1b8b72">
+
 
 <h3>8. The Main Thing we will do now for recreate deployment. </h3>
 <h4> As the problem statement suggest that the server-1 will face downtime till the time server-2 comes in action. </h4>
